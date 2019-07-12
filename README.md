@@ -16,7 +16,7 @@ Link to WCT : https://github.com/Yijunmaverick/UniversalStyleTransfer
 
 1. Install Torch from http://torch.ch/
 
-2. Download encoders, decoders from [here](https://drive.google.com/open?id=1uv1m15RqTwgWQog7BMAW38bDVE7BkzO4)
+2. Download encoders, decoders from [here](https://drive.google.com/open?id=1uv1m15RqTwgWQog7BMAW38bDVE7BkzO4) and unzip it to models/
 
 3. For single image usage, see demo.sh
 
