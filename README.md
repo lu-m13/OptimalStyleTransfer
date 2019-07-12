@@ -12,6 +12,17 @@ Link to AdaIN : https://github.com/xunhuang1995/AdaIN-style
 
 Link to WCT : https://github.com/Yijunmaverick/UniversalStyleTransfer
 
+## Usage
+
+1. Install Torch from http://torch.ch/
+
+2. Download encoders, decoders from [here](https://drive.google.com/open?id=1uv1m15RqTwgWQog7BMAW38bDVE7BkzO4)
+
+3. For single image usage, see demo.sh
+
+4. For folder images usage, see demo_folder.sh
+
+
 ## Citation
 
 If you find this code useful in your research, please consider to cite the following paper:
