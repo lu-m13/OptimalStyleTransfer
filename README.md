@@ -1,4 +1,4 @@
-Code for A Closed-form Solution to Universal Style Transfer (https://arxiv.org/abs/1906.00668)
+Code for A Closed-form Solution to Universal Style Transfer (https://arxiv.org/abs/1906.00668) - ICCV2019
 =============
 
 This work mathematically derives a closed-form solution to universal style transfer. It is based on the theory of optimal transport and is closed related to AdaIN and WCT. AdaIN ignores the correlation between channels and WCT does not minimize the content loss. We consider both of them. Details of the derivation can be found in the paper.
