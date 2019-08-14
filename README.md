@@ -29,9 +29,9 @@ If you find this code useful in your research, please consider to cite the follo
 
 ```
 @article{lu2019optimal,
-  title={a closed form solution to universal style transfer},
+  title={a closed-form solution to universal style transfer},
   author={Ming Lu, Hao Zhao, Anbang Yao, Yurong Chen, Feng Xu, Li Zhang},
-  journal={arXiv preprint arXiv:1906.00668},
+  journal={ICCV 2019},
   year={2019}
 }
 ```
