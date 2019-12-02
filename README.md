@@ -40,6 +40,7 @@ If you find this code useful in your research, please consider to cite the follo
 
 I recently find two contemporary works (same conclusions), please also consider to cite them.
 
+```
 @inproceedings{li2019optimal,
   title={Optimal Transport of Deep Feature for Image Style Transfer},
   author={Li, Pan and Zhao, Lei and Xu, Duanqing and Lu, Dongming},
@@ -48,13 +49,15 @@ I recently find two contemporary works (same conclusions), please also consider 
   year={2019},
   organization={ACM}
 }
+```
 
+```
 @article{mroueh2019wasserstein,
   title={Wasserstein Style Transfer},
   author={Mroueh, Youssef},
   journal={arXiv preprint arXiv:1905.12828},
   year={2019}
 }
-
+```
 
 
